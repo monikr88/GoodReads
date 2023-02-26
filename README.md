@@ -1,2 +1,2 @@
 # GoodReads
-Rating on Kaggle dataset GoodReads 
+Books average rating on Kaggle dataset GoodReads 
